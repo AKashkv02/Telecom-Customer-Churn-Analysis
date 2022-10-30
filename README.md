@@ -7,8 +7,8 @@ I have applied decision tree and random forest classifier
 
 Without using SMOTE-ENN to balance the data, the model performance that is produced is as follows.
 
-Decision tree--> 79% accuracy Random Forest --> 78% accuary
+Decision tree--> 79% accuracy Random Forest --> 78% accuracy
 
 using the SMOTE-ENN method to balance the dataset that used in classification modeling, thus increasing the model performance
 
-Decision tree--> 93% accuracy Random Forest --> 94.7% accuary
+Decision tree--> 93% accuracy Random Forest --> 94.7% accuracy
